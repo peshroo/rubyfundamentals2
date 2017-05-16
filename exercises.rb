@@ -24,3 +24,15 @@ puts age
 age << 0
 # 5
 puts movies[:fightclub]
+
+# Exercise 2
+#1
+puts fav_colours
+#2
+cities [:vancouver] = 2463431
+#3
+puts  coin_flips.reverse!
+#4
+puts cities[:toronto]
+#5
+performing_artists.each {|x| puts "I think #{x} is great"}
