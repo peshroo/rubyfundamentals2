@@ -36,3 +36,8 @@ puts  coin_flips.reverse!
 puts cities[:toronto]
 #5
 performing_artists.each {|x| puts "I think #{x} is great"}
+
+# Exercise 3
+# 1
+puts performing_artists [0..1]
+# 2
